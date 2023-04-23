@@ -1,5 +1,5 @@
 <div text-align="center" align="center">
-  <img
+	<img
 		src="https://user-images.githubusercontent.com/70624701/233836320-20e76d54-dac4-4cd0-8eb4-d5f560d36d6f.png" 
 		alt="Pass Tauri Client" 
 		height="64px" 
@@ -17,4 +17,7 @@ With Pass Tauri Client you can:
 - Search your passwords
 - Copy and see metadata
 
-![image](https://user-images.githubusercontent.com/70624701/233836869-72e5c627-8914-41c0-940f-35bafa058c56.png)
+<div text-align="center" align="center">
+	<img src="https://user-images.githubusercontent.com/70624701/233837489-f71be799-ae10-42f5-a519-d574145db6ee.png" style="border-radius:20px;">
+</div>
+
