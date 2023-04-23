@@ -6,8 +6,7 @@ use pass_client::{
     item::{get_item, Item},
     path::store_path,
 };
-use serde::{Deserialize, Serialize};
-use std::{ffi::OsString, fs, io, path::PathBuf, process::Command};
+use std::{ffi::OsString, fs, io, path::PathBuf};
 
 // Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
 #[tauri::command]
