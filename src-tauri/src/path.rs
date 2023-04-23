@@ -1,4 +1,4 @@
-use std::path::PathBuf;
+use std::{path::PathBuf, env};
 use tauri::api::path::home_dir;
 
 pub fn store_path() -> Result<PathBuf, String> {

@@ -1,3 +1,6 @@
+use std::process::Command;
+use serde::{Deserialize, Serialize};
+
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Item {
     password: String,
